@@ -9,7 +9,7 @@ More info about the code / project is here:
 How to produce the tidy data set
 ===================
 
-1. Clone this repository
+1. Clone the repository from https://github.com/behrica/datasciencecoursera
 2. Download the original data set to the top level directory of the repository (Link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip )
 3. Unzip the data set to top level directory of the repository (and preserve folders)
 4. Run the script in level directory of the repository . (For Linux via: "Rscript run_analysis.R")
