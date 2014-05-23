@@ -1,6 +1,6 @@
-Decsription of repository
+Description of repository
 ================
-This repositry conains code for the cleaning of a data set.
+This repository contains code for the cleaning of a data set.
 The files are the project of the Coursera online course "Data Science / Getting and Cleaning Data"
 More info about the code / project is here:
 * https://class.coursera.org/getdata-003
