@@ -7,6 +7,7 @@ More info about the code / project is here:
 
 * https://class.coursera.org/getdata-003
 * https://class.coursera.org/getdata-003/human_grading
+* http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 How to produce the tidy data set
 ===================
