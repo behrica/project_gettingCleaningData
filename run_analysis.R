@@ -39,4 +39,8 @@ data.averages <- ddply(data,.(subject,activity),numcolwise(mean))
 #reorder levels for subject
 data.averages$subject <- factor(data.averages$subject,levels = 1:100)
 
+#reorder dataset by subject and activity
 data.tidy <- arrange(data.averages,subject,activity)
+
+write.csv(data.tidy,file='tidyData.txt')
+
